@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Title Here'
+title: 'Chapter 1'
 description: 'Chapter description goes here.'
 ---
 
@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Introduction
+
+```yaml
+type: VideoExercise
+key: 85c6832af0
+xp: 50
+```
+
+`@projector_key`
+805f9d203e6629132e5b1465b568c395
