@@ -26,7 +26,7 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise for computing a char polynomial 
+This is an example exercise for computing a char polynomial
 
 `@instructions`
 1. import all from sympy 
