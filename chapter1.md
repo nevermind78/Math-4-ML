@@ -1,6 +1,7 @@
 ---
 title: 'Chapter 1'
 description: 'Chapter description goes here.'
+free_preview: true
 ---
 
 ## Introduction
