@@ -41,7 +41,7 @@ This is an example exercise for computing a char polynomial
 ```{python}
 from sympy import *
 from sympy import init_session
-init_session(quit=True)
+init_session(quite=True)
 lamda = symbols('lamda')
 M=Matrix([[1,2,1],[2,1,-1],[1,1,2]])
 p=M.charpoly(lamda)
