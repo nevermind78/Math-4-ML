@@ -40,6 +40,8 @@ This is an example exercise for computing a char polynomial
 `@pre_exercise_code`
 ```{python}
 from sympy import *
+from sympy import init_session
+inint_session(quit=True)
 lamda = symbols('lamda')
 M=Matrix([[1,2,1],[2,1,-1],[1,1,2]])
 p=M.charpoly(lamda)
